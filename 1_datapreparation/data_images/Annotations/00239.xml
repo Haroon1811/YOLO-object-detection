@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>00239.jpg</filename>
+	<path>D:\YOLO\object_detection\1_datapreparation\data_images\00239.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1365</width>
+		<height>2047</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>242</ymin>
+			<xmax>1365</xmax>
+			<ymax>2004</ymax>
+		</bndbox>
+	</object>
+</annotation>

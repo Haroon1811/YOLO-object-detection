@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>00433.jpg</filename>
+	<path>D:\YOLO\object_detection\1_datapreparation\data_images\00433.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potted plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>440</ymin>
+			<xmax>1181</xmax>
+			<ymax>1288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>potted plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1301</xmin>
+			<ymin>24</ymin>
+			<xmax>1835</xmax>
+			<ymax>1290</ymax>
+		</bndbox>
+	</object>
+</annotation>

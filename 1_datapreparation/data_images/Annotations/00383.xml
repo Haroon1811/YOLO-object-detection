@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>00383.jpg</filename>
+	<path>D:\YOLO\object_detection\1_datapreparation\data_images\00383.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dining table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>190</ymin>
+			<xmax>1583</xmax>
+			<ymax>1130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>459</ymin>
+			<xmax>807</xmax>
+			<ymax>1191</ymax>
+		</bndbox>
+	</object>
+</annotation>

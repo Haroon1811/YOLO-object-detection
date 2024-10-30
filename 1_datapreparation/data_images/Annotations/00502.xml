@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>00502.jpg</filename>
+	<path>D:\YOLO\object_detection\1_datapreparation\data_images\00502.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>698</ymin>
+			<xmax>758</xmax>
+			<ymax>1380</ymax>
+		</bndbox>
+	</object>
+</annotation>

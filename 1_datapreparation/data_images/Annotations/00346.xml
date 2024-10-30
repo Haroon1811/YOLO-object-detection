@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>00346.jpg</filename>
+	<path>D:\YOLO\object_detection\1_datapreparation\data_images\00346.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1233</width>
+		<height>2047</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aeroplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>248</ymin>
+			<xmax>963</xmax>
+			<ymax>1825</ymax>
+		</bndbox>
+	</object>
+</annotation>

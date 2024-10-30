@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>00269.jpg</filename>
+	<path>D:\YOLO\object_detection\1_datapreparation\data_images\00269.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tv monitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>149</ymin>
+			<xmax>1638</xmax>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+</annotation>
